@@ -1,4 +1,4 @@
-# Cyber Threat Detection using NLP | Applicable to OT Logs & DCS Alarms @ Yokogawa
+# Cyber Threat Detection using NLP | Applicable to OT Logs & DCS Alarms @Yokogawa
 
 An NLP-based system that automatically detects and classifies cyber threats from unstructured text data — achieving 85% accuracy.
 
@@ -20,7 +20,7 @@ An NLP-based system that automatically detects and classifies cyber threats from
 * Accuracy: 85%
 * Dataset: Real-world annotated cyber threat text data
 
-## Industrial Application @ Yokogawa
+## Industrial Application @Yokogawa
 * DCS alarm logs & Historian trends can be treated as text data for anomaly detection
 * Predictive Maintenance alerts using NLP on maintenance logs
 * Foundation for RAG-based Document Assistant for FKDPP manuals
